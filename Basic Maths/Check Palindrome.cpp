@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+// 9. Palindrome Number
 bool Palindrome(int x){
     int rev=0;
         int og=x;
