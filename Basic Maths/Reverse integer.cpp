@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-int reverse(int n){
+
+// 7. Reverse Integer
+int reverseInt(int n){
     int rev=0;
         while(n!=0){
             int ld=n%10;
@@ -12,13 +14,11 @@ int reverse(int n){
             n=n/10;
             }
         }
-        // use return only on platform like Leet-code
-        // return rev;
-        cout<<rev;
+        return rev;
 }
 
 int main(){
     int n;
     cin>>n;
-    reverse(n);
+    reverseInt(n);
 }
