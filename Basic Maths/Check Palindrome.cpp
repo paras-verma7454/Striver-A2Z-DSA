@@ -29,5 +29,10 @@ bool Palindrome(int x){
 int main(){
     int x;
     cin>>x;
-    Palindrome(x);
+    if(Palindrome(x)){
+        cout<<"true";
+    }
+    else{
+        cout<<"false";
+    }
 }
