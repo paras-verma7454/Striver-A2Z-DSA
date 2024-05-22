@@ -18,5 +18,10 @@ bool isArmstrong(int n) {
 int main(){
     int n;
     cin>>n;
-    isArmstrong(n);
+   if(isArmstrong(n)){
+        cout<<"true";
+    }
+    else{
+        cout<<"false";
+    }
 }
