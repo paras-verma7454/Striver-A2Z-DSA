@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int Divisors(int n)
+void Divisors(int n)
 {
 
     for (int i = 1; i <= n; i++)
