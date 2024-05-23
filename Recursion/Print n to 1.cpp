@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-int n;
 
 void print(int n){
     if(n==0){
@@ -10,6 +9,7 @@ void print(int n){
     print(n-1);
 }
 int main(){
+    int n;
     cin>>n;
     print(n);
     
