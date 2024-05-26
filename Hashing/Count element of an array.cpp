@@ -23,7 +23,7 @@ int main()
     while(q--){
         int num;
         cin>>num;
-        cout<<hash[num]<<endl;
+        cout<<num<<" : "<<hash[num]<<endl;
     }
 
 
