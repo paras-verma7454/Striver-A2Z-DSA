@@ -4,9 +4,6 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
 
 <img src="Striver-A2Z-DSA.png" alt="Striver-A2Z-DSA">
 
-## Resources
-
- **Course Website**: [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
  ## Index
  
@@ -16,6 +13,12 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
  4. [Hashing](Hashing)
  5. [Sorting](Sorting)
 
+
+## Resources
+
+ **Course Website**: [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+
+ 
 ## About
 
 This repository contains my implementations, solutions, and notes on various DSA topics covered in the Strivers A2Z DSA course. I am sharing this repository to document my learning progress and to provide a resource for others who are also interested in learning DSA.
