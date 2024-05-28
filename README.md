@@ -9,8 +9,12 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
  **Course Website**: [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
  ## Index
- 1. ([Basic Maths](https://github.com/paras-verma7454/Striver-A2Z-DSA/tree/6d58e5c5c31e2951d35ac1b1f1e55b4af3e40ac3/Basic%20Maths))
- 2. [Pattern](Patterns)
+ 
+ 1. [Pattern](Patterns)
+ 2. [Basic Maths](https://github.com/paras-verma7454/Striver-A2Z-DSA/tree/6d58e5c5c31e2951d35ac1b1f1e55b4af3e40ac3/Basic%20Maths)
+ 3. [Recursion](Recursion)
+ 4. [Hashing](Hashing)
+ 5. [Sorting](Sorting)
 
 ## About
 
