@@ -1,9 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-// compare two no. and  Max will be at  the last 
-// input: 6 
-// 13 46 24 52 20 9
-// output: 9 13 20 24 46 52 
 void Bubble_Sort(int arr[],int n){
     for(int i=n-1;i>=0;i--){
         for(int j=0;j<=i-1;j++){
