@@ -1,5 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+// compare two no. and  Minimum will be at  the first 
+// input: 6 
+// 13 46 24 52 20 9
+// output: 9 13 20 24 46 52 
 void Selection_Sort(int arr[],int n){
     for(int i=0;i<=(n-2);i++){
         int mini=i;
