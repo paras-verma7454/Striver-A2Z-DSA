@@ -5,10 +5,22 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
 <img src="Striver-A2Z-DSA.png" alt="Striver-A2Z-DSA">
 
 
+## Table of Contents
+
+- [Index](#index)
+- [Resources](#resources)
+- [About](#about)
+- [Contents](#contents)
+- [Contribution](#contribution)
+- [Acknowledgements](#acknowledgements)
+- [Disclaimer](#disclaimer)
+- [Connect with me ](#connect)
+
+  
  ## Index
  
  1. [Pattern](Patterns)
- 2. [Basic Maths](https://github.com/paras-verma7454/Striver-A2Z-DSA/tree/6d58e5c5c31e2951d35ac1b1f1e55b4af3e40ac3/Basic%20Maths)
+ 2. [Basic Maths](Basic%20Maths)
  3. [Recursion](Recursion)
  4. [Hashing](Hashing)
  5. [Sorting](Sorting)
