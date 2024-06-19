@@ -8,7 +8,7 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
 ## Table of Contents
 
 - [Index](#index)
-- [Resources](#resources)
+- [Course](#course)
 - [About](#about)
 - [Contents](#contents)
 - [Contribution](#contribution)
@@ -26,7 +26,7 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
  5. [Sorting](Sorting)
 
 
-## Resources
+## Course
 
  **Course Website**: [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
