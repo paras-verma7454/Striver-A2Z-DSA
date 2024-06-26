@@ -57,7 +57,7 @@ If you find any errors, have suggestions for improvements, or would like to cont
 
 ## Acknowledgements
 
-Special thanks to Striver for providing the A2Z DSA course.
+Special thanks to [Striver](https://www.linkedin.com/in/rajstriver/) for providing the A2Z DSA course.
 
 ## Disclaimer
 
