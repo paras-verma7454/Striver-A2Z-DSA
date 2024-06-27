@@ -24,6 +24,7 @@ Welcome to the Striver-A2Z-DSA repository! This repository is dedicated to my jo
  3. [Recursion](Recursion)
  4. [Hashing](Hashing)
  5. [Sorting](Sorting)
+ 6. [Array](Array)
 
 
 ## Course
