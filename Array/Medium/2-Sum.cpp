@@ -3,19 +3,18 @@ using namespace std;
 
 // 1. Two Sum
 
-void TwoSum(vector<int> &nums,int target){
+vector<int> TwoSum(vector<int> &nums,int target){
     map<int,int> mpp;
     int n=nums.size();
     for(int i=0;i<n;i++){
         int num=nums[i];
         int rem = target-num;
         if(mpp.find(rem)!=mpp.end()){
-        cout<<mpp[rem]<<" "<< i;
-        return;
+        return{mpp[rem],i};
         }
-            mpp[num]=i;
+        mpp[num]=i;
         }
-    cout<<"{-1,-1}";
+        return {-1,-1};
 }
 
 
@@ -29,5 +28,8 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>nums[i];
     }
-    TwoSum(nums,target);
+    vector<int> arr= TwoSum(nums,target);
+    for(int i=0;i<arr.size();i++){
+        cout<<arr[i]<<" ";
+    }
 }
